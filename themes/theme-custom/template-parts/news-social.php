@@ -1,5 +1,5 @@
 <?php
-$cat = 5;
+$cat = 6;
 $number = 10;
 $argss = array(
     'post_type' => 'post',
