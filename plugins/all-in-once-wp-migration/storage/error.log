@@ -1,0 +1,6 @@
+Mar 06 2019 07:03:08
+{"type":2,"message":"unlink(\/home\/itsweb\/domains\/itsweb.vn\/public_html\/wp-content\/wflogs\/template.0464028001551855787.tmp): No such file or directory","file":"\/home\/itsweb\/domains\/itsweb.vn\/public_html\/wp-content\/plugins\/wordfence\/lib\/wordfenceClass.php","line":1871}
+
+Apr 05 2019 08:27:06
+{"type":2,"message":"is_readable(): open_basedir restriction in effect. File(\/dev\/urandom) is not within the allowed path(s): (\/home\/itsweb\/:\/tmp:\/var\/tmp:\/usr\/local\/lib\/php\/:\/usr\/local\/php71\/lib\/php\/)","file":"\/home\/itsweb\/domains\/itsweb.vn\/public_html\/wp-includes\/class-phpass.php","line":68}
+
